@@ -1,2 +1,2 @@
-# srails-skill
-claiude code skill for working with srails
+# strails-skill
+claiude code skill for working with strails
