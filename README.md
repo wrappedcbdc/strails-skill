@@ -1,2 +1,3 @@
 # strails-skill
-claiude code skill for working with strails
+
+Claude Code skill bundle for working with the Strails platform.
