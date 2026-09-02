@@ -1,0 +1,22 @@
+{
+  "name": "strails-api",
+  "description": "Reference for integrating the Strails API - stablecoin orchestration for cNGN, USDC and USDT covering NGN onramp/offramp, multi-chain wallets, P2P FX orderbook trading, virtual accounts, fees, and webhooks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wrappedCBDC",
+    "email": "support@strails.co"
+  },
+  "homepage": "https://github.com/wrappedcbdc/strails-skill",
+  "repository": "https://github.com/wrappedcbdc/strails-skill",
+  "license": "MIT",
+  "keywords": [
+    "strails",
+    "cngn",
+    "stablecoin",
+    "fintech",
+    "nigeria",
+    "onramp",
+    "offramp",
+    "fx"
+  ]
+}

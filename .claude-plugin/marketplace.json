@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "strails",
+  "description": "Official Strails plugins for Claude Code.",
+  "owner": {
+    "name": "wrappedCBDC",
+    "email": "support@strails.co"
+  },
+  "plugins": [
+    {
+      "name": "strails-api",
+      "description": "Reference for integrating the Strails API - stablecoin orchestration for cNGN, USDC and USDT covering NGN onramp/offramp, multi-chain wallets, P2P FX orderbook trading, virtual accounts, fees, and webhooks.",
+      "author": {
+        "name": "wrappedCBDC",
+        "email": "support@strails.co"
+      },
+      "category": "development",
+      "source": "./",
+      "homepage": "https://github.com/wrappedcbdc/strails-skill"
+    }
+  ]
+}
